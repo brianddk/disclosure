@@ -1,2 +1,2 @@
 # disclosure
-Security Disclosures
+Public Repo for security disclosures
